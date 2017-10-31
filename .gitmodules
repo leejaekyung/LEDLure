@@ -1,0 +1,3 @@
+[submodule "hugo-bootswatch"]
+	path = hugo-bootswatch
+	url = https://github.com/nilproductions/hugo-bootswatch.git
